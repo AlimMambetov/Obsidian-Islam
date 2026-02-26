@@ -1,6 +1,6 @@
 ---
 title: Глава первая. Цивилизации и религии
-next: "[[Сhapter-2]]"
+next: "[[Books/sira_as-sallabi/part-1/chapter-2]]"
 ---
 
 # § 1. Византийская империя

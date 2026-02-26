@@ -1,7 +1,7 @@
 ---
 title: Глава вторая. Происхождение арабов и арабская цивилизация
-prev: "[[Сhapter-1]]"
-next: "[[Сhapter-3]]"
+prev: "[[Books/sira_as-sallabi/part-1/chapter-1]]"
+next: "[[chapter-3]]"
 ---
 
 # § 1. Происхождение арабов
