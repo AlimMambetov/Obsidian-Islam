@@ -1,5 +1,6 @@
 ---
 title: Предисловие
+next: "[[Books/sira_as-sallabi/part-1/chapter-1]]"
 ---
 
 С Именем Аллаха Милостивого, Милосердного!

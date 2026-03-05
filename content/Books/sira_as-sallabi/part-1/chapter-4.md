@@ -1,6 +1,6 @@
 ---
 title: Глава четвёртая. Важнейшие события до рождения Посланника Аллаха ﷺ
-prev: "[[chapter-3]]"
+prev: "[[Books/sira_as-sallabi/part-1/chapter-3]]"
 next: "[[chapter-5]]"
 ---
 
