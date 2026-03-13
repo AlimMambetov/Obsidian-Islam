@@ -1,6 +1,6 @@
 ---
 title: Глава пятая. От рождения Пророка ﷺ до «союза чести»
-prev: "[[chapter-4]]"
+prev: "[[Books/sira_as-sallabi/part-1/chapter-4]]"
 next: "[[chapter-6]]"
 ---
 

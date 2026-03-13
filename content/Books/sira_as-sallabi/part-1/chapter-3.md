@@ -1,7 +1,7 @@
 ---
 title: Глава третья. Религиозное, политическое, экономическое, социальное и нравственное положение арабов
 prev: "[[Books/sira_as-sallabi/part-1/chapter-2]]"
-next: "[[chapter-4]]"
+next: "[[Books/sira_as-sallabi/part-1/chapter-4]]"
 ---
 
 ## § 1. Религия
