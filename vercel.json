@@ -9,8 +9,8 @@
 			"destination": "/:path*/index.html"
 		}
 	],
-	"buildCommand": "git lfs pull && npx quartz build",
+	"buildCommand": "npx quartz build",
 	"outputDirectory": "public",
-	"installCommand": "npm install && apt-get update && apt-get install -y git-lfs && git lfs install",
+	"installCommand": "npm install",
 	"devCommand": "npx quartz build --watch --serve"
 }
